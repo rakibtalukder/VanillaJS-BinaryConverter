@@ -4,7 +4,7 @@ const result= document.getElementById('result');
  	e.preventDefault();
  	const num= document.getElementById('number').value;
  	if (num==="") {
- 		alert("Please Enter A Decimal Number");
+ 		alert("Haay Haay Bhai Number na diya Khali Rakhlen Ken?");
  	}
  	else if(num<0){
  		alert("Bhai Positive Number Den");
